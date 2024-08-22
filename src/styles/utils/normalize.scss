@@ -1,0 +1,11 @@
+:root {
+  color: $main-color;
+  font-family: Poppins, sans-serif;
+}
+
+
+body {
+  background-color: $bg-color;
+  scrollbar-width: thin;
+  scrollbar-color: $scrollBarBorder $scroll-bar-track-color;
+}
